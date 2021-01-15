@@ -1,7 +1,7 @@
 # PandocManPage
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Example files for creating a MAN page, written in Markdown, for your own program of script. With the help of [Pandoc](https://pandoc.org/), you can convert it to a properly *groff* formatted MAN page.
+Example files for creating a MAN page, written in Markdown, for your own program of script. With the help of Pandoc, you can convert it to a properly *groff* formatted MAN page. More details on how to use these files can be found in the PragmaticLinux article about [how to create a MAN page for your own program or script with Pandoc](https://www.pragmaticlinux.com/2021/01/create-a-man-page-for-your-own-program-or-script-with-pandoc/).
 
 In the `source/` directory you can find a Python script called `hello.py`. It is a simple *Hello world* type program. The program accepts two command line parameters:
 
